@@ -1,0 +1,36 @@
+// Button click and Hooks
+
+// import {useState} from 'react';
+// const Home = () => {
+//     const [name, setName] = useState('mario');
+//     const [age, setAge] = useState('25');
+
+
+//     const handleClick = () => {
+//        setName('anuoluwapo');
+//        setAge('30');
+//     }
+
+//     // const handleClickAgain = (name) =>{
+//     //     console.log('hello ' + name)
+//     // }
+//     return ( 
+//         <div className="home">
+//             <h2>Homepage</h2>
+//             <p>{ name } is { age } years old</p>
+//             <button onClick={handleClick}>Click me</button>
+//             {/* <button onClick={() => handleClickAgain('Oluwaseyi')}>Click me again</button> */}
+//         </div>
+//      );
+// }
+ 
+// export default Home;
+
+
+
+
+// [
+//     {title: 'my new websites' , body: 'lore ipsum...', author: 'oluwaseyi', id: 1},
+//     {title: 'Welcome to party' , body: 'lore ipsum...', author: 'anuoluwapo', id: 2},
+//     {title: 'Web dev top tips' , body: 'lore ipsum...', author: 'oluwaseyi', id: 3},
+// ]
