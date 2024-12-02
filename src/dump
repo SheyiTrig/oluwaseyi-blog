@@ -34,3 +34,38 @@
 //     {title: 'Welcome to party' , body: 'lore ipsum...', author: 'anuoluwapo', id: 2},
 //     {title: 'Web dev top tips' , body: 'lore ipsum...', author: 'oluwaseyi', id: 3},
 // ]
+
+
+
+
+
+
+    // async function fetchData() {
+    //   try {
+    //     const response = await fetch("http://localhost:8000/blogs");
+    //     if (response.ok) {
+    //       setError("");
+    //       setisPending(false);
+    //       const data = await response.json();
+    //       console.log(data);
+    //       setBlogsData(data);
+    //     }
+    //   } catch (error) {
+    //     setisPending(false);
+    //     console.log("an error occured", error);
+    //     setError(error);
+    //   }
+    // }
+    // fetchData();
+
+
+
+      {/* <BlogList blogs={blogs.filter((blog)=> blog.author === "oluwaseyi")} title = "Oluwaseyi's Blogs!"  /> */}
+      {/* <button onClick={() => setName("Anuoluwapo")}>change name</button> */}
+
+
+      
+  // const handleDelete = (id) => {
+  //   const newBlogs = blogs.filter((blogs) => blogs.id !== id);
+  //   setBlogs(newBlogs);
+  // };
